@@ -1088,6 +1088,7 @@ MonoBehaviour:
   - {fileID: -1244574708882841621}
   - {fileID: -3508129969238892097}
   - {fileID: 4648040805261279758}
+  - {fileID: 3943676836049240753}
   - {fileID: -689857732727701799}
   m_FixedDuration: 0
   m_EditorSettings:
@@ -1763,6 +1764,33 @@ MonoBehaviour:
   m_Retroactive: 0
   m_EmitOnce: 0
   m_Asset: {fileID: 11400000, guid: 29c62107d2d5165478da29db05644e2f, type: 2}
+--- !u!114 &3943676836049240753
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b22792c3b570444eb18cb78c2af3a74, type: 3}
+  m_Name: Audio Track
+  m_EditorClassIdentifier: Unity.Timeline::UnityEngine.Timeline.AudioTrack
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips: []
+  m_Markers:
+    m_Objects: []
+  m_TrackProperties:
+    volume: 1
+    stereoPan: 0
+    spatialBlend: 0
 --- !u!114 &3973616604852960274
 MonoBehaviour:
   m_ObjectHideFlags: 1
