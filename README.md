@@ -18,6 +18,8 @@ The main programming language used to create this game was C++/C# along with som
 * ["How to Make Cutscenes with Timeline -UNITY TUTORIAL-"](https://www.youtube.com/watch?v=Zb5GxSz5mSI&list=LL&index=2)
 * ["2D Player Movement Unity Tutorial (2025)"](https://www.youtube.com/watch?v=9rCTYrh3IZk&list=LL&index=4)
 * ["How to Create 2D Enemy Movement in Unity"](https://www.youtube.com/watch?v=7mkD9K2nwDM&list=LL)
+* ["Introduction to scenes"](https://docs.unity3d.com/6000.0/Documentation/Manual/CreatingScenes.html)
+* ["2D game development"](https://docs.unity3d.com/6000.0/Documentation/Manual/Unity2D.html)
 
 # Future Work
 
