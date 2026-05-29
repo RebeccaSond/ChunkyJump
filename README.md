@@ -17,6 +17,7 @@ The main programming language used to create this game was C++ along with some U
 * ["How to Use GitHub With Unity (Also Works With Existing Projects)"](https://www.youtube.com/watch?v=pn1YgU81GUY&list=LL)
 * ["How to Make Cutscenes with Timeline -UNITY TUTORIAL-"](https://www.youtube.com/watch?v=Zb5GxSz5mSI&list=LL&index=2)
 * ["2D Player Movement Unity Tutorial (2025)"](https://www.youtube.com/watch?v=9rCTYrh3IZk&list=LL&index=4)
+* ["How to Create 2D Enemy Movement in Unity"](https://www.youtube.com/watch?v=7mkD9K2nwDM&list=LL)
 
 # Future Work
 
