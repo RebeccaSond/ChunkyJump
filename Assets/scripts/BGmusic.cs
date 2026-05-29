@@ -13,6 +13,7 @@ public class MusicCrossfade : MonoBehaviour
 
     public AudioClip cutsceneClip;
 
+    // This function is what starts the music.
     void Start()
     {
         cutsceneSource.clip = cutsceneClip;
@@ -21,11 +22,13 @@ public class MusicCrossfade : MonoBehaviour
         director.stopped += OnCutsceneEnd;
     }
 
+    // This function helps the music move on to the next song when the cutscene ends.
     void OnCutsceneEnd(PlayableDirector pd)
     {
         StartCoroutine(Crossfade());
     }
 
+    // This function makes the music overlap with each other nicely when cutscenes end so it isnt so abrupt.
     IEnumerator Crossfade()
     {
         gameplaySource.clip = gameplayClip;

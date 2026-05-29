@@ -4,6 +4,9 @@ public class TeleportPlayer2D : MonoBehaviour
 {
     public Transform respawnPoint;
 
+    // This function is what helps the player teleport back to
+    // the "RespawnPoint" when they "die", which is colliding
+    // with the death plane or enemy objects.
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.name == "player")
